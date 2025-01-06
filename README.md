@@ -10,3 +10,8 @@ _Este conjunto de exercícios tem como objetivo fortalecer a compreensão das fu
 * Filtragem de dados: Uso de condições para selecionar elementos em arrays.
 * Estatísticas e agregações: Cálculo de média, soma, desvio padrão e outras estatísticas de conjuntos de dados.
 * Manipulação avançada: Transformação de formatos, redimensionamento e operações com arrays multidimensionais.
+
+#
+_Esta lista de exercícios foi desenvolvida com o objetivo de praticar e fixar conceitos sobre a lib NumPy._
+
+_Sinta-se à vontade para clonar o repositório e utilizá-lo para fins de aprendizado._ 🚀💫
